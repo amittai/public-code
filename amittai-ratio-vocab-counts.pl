@@ -3,8 +3,7 @@ use warnings;
 use strict;
 use Getopt::Long;
 
-# amittai
-# 2014
+# amittai 2014
 
 # released under MIT License (included at end). if you port or update
 # this code, i'd appreciate a copy.
